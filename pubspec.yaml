@@ -19,7 +19,7 @@ dependencies:
   # Service Locator (DI)
   get_it: ^4.0.1
   # BLoC (Business Logic Component) for Flutter State Management
-  flutter_bloc: ^3.2.0
+  flutter_bloc: ^4.0.0
   # Functional Programming
   dartz: ^0.8.9
   # Socket based data connection checker {beta}
